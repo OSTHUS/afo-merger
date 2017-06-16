@@ -1,11 +1,11 @@
-# allotrope-ontology-merger
-The ONTOLOGY MERGING AND INFERENCING command-line tool allows creation of single merged ontology files that are prepared from modularized ontologies and/or external sources. It is based on OWLAPI.<br/>
+# AFO merger
+The AFO merger command-line tool allows creation of single merged ontology files that are prepared from modularized ontologies and/or external sources. It is based on OWLAPI.<br/>
 
 User documentation: <br/>
 http://www.allotrope-framework-architect.com/index.php/afo-merger/  
 
 Dependencies:<br/>
-The  ONTOLOGY MERGING AND INFERENCING tool depends on third-party libraries. Please make sure that all required dependencies are located in folder “lib” next to afo-merger-0.3.8.jar.<br/> 
+The  AFO merger tool depends on third-party libraries. Please make sure that all required dependencies are located in folder “lib” next to afo-merger-0.3.8.jar.<br/> 
 
 • aopalliance-1.0.jar<br/>
 • apache-mime4j-core-0.7.2.jar<br/>
