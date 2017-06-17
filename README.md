@@ -1,10 +1,10 @@
 # AFO Merger
 The AFO Merger allows merging multiple ontologies from Allotrope and/or external sources into a single file. It is based on OWLAPI https://github.com/owlcs/owlapi.<br/>
 
-# User documentation: <br/>
+# User Documentation
 http://www.allotrope-framework-architect.com/index.php/afo-merger/  
 
-# Dependencies:<br/>
+# Dependencies
 The AFO Merger depends on third-party software libraries.
 Please make sure that all required dependencies are located in folder “lib” next to afo-merger.jar.<br/> 
 
