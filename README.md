@@ -7,7 +7,7 @@ http://www.allotrope-framework-architect.com/index.php/afo-merger/
 # Dependencies
 The AFO Merger depends on third-party software libraries.
 Please make sure that all required dependencies are located in folder “lib” next to afo-merger.jar.<br/>
-You can use Maven command "mvn dependency:copy-dependencies" to download required dependecies.<br/>  
+You can use Maven command "mvn dependency:copy-dependencies" to download required dependencies.<br/>  
 
 • aopalliance-1.0.jar<br/>
 • apache-mime4j-core-0.7.2.jar<br/>
