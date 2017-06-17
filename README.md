@@ -1,11 +1,12 @@
 # AFO Merger
-The AFO Merger allows creation of single merged ontology files that are prepared from modularized ontologies and/or external sources. It is based on OWLAPI.<br/>
+The AFO Merger allows creation of single merged ontology files that are prepared from modularized ontologies and/or external sources. It is based on OWLAPI https://github.com/owlcs/owlapi.<br/>
 
 # User documentation: <br/>
 http://www.allotrope-framework-architect.com/index.php/afo-merger/  
 
 # Dependencies:<br/>
-The AFO Merger depends on third-party libraries. Please make sure that all required dependencies are located in folder “lib” next to afo-merger.jar.<br/> 
+The AFO Merger depends on third-party software libraries.
+Please make sure that all required dependencies are located in folder “lib” next to afo-merger.jar.<br/> 
 
 • aopalliance-1.0.jar<br/>
 • apache-mime4j-core-0.7.2.jar<br/>
