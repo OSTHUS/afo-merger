@@ -1,5 +1,5 @@
 # AFO Merger
-The AFO Merger allows creation of single merged ontology files that are prepared from modularized ontologies and/or external sources. It is based on OWLAPI https://github.com/owlcs/owlapi.<br/>
+The AFO Merger allows merging multiple ontologies from Allotrope and/or external sources into a single file. It is based on OWLAPI https://github.com/owlcs/owlapi.<br/>
 
 # User documentation: <br/>
 http://www.allotrope-framework-architect.com/index.php/afo-merger/  
